@@ -1,3 +1,4 @@
+--nada de mais mizera
 local cloneref = (cloneref or clonereference or function(instance: any) return instance end)
 local httpService = cloneref(game:GetService('HttpService'))
 local isfolder, isfile, listfiles = isfolder, isfile, listfiles;
